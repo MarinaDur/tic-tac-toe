@@ -28,11 +28,11 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.png)
+![](./public/screenshot.png)
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
+- Solution URL: [https://tic-tac-toe-game-with-cpu.netlify.app/](https://tic-tac-toe-game-with-cpu.netlify.app/)
 
 ## My process
 

@@ -55,4 +55,4 @@ Learned about the minimax algorithm and how to implement it. Learned more about 
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@MarinaDur](https://www.frontendmentor.io/profile/MarinaDur)
